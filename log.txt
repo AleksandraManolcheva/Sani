@@ -1,0 +1,5 @@
+commit a26477a01acebd9dcee46d568caf305c2421ec1f (HEAD -> logging, master)
+Author: Aleksandra Manolcheva <aleksandramanolceva@yahoo.com>
+Date:   Thu Mar 22 16:39:58 2018 +0100
+
+    Initial commmit
